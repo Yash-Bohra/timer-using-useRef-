@@ -1,5 +1,3 @@
-```jsx
-// better code
 import React, { useState, useRef } from 'react';
 
 function Stopwatch() {
@@ -27,4 +25,3 @@ function Stopwatch() {
     </div>
   );
 }
-```
